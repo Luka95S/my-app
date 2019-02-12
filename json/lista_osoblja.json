@@ -1,0 +1,41 @@
+[{
+    "0": {
+        "id": 1,
+        "ime": "Alen",
+        "prezime": "Portnar",
+        "spol": "Musko",
+        "dob": "23"
+    }
+}, {
+    "1": {
+        "id": 2,
+        "ime": "Luka",
+        "prezime": "Smaic",
+        "spol": "Musko",
+        "dob": "23"
+    }
+}, {
+    "2": {
+        "id": 3,
+        "ime": "Tomislav",
+        "prezime": "Doc",
+        "spol": "Musko",
+        "dob": "23"
+    }
+}, {
+    "4": {
+        "id": 4,
+        "ime": "Ana",
+        "prezime": "Stevanovic",
+        "spol": "Zensko",
+        "dob": "23"
+    }
+}, {
+    "5": {
+        "id": 5,
+        "ime": "Ivana",
+        "prezime": "Co",
+        "spol": "Zensko",
+        "dob": "23"
+    }
+}]

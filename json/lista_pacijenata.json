@@ -1,0 +1,46 @@
+[
+  {
+    "0": {
+      "id": 1,
+      "ime": "Alen",
+      "prezime": "Portnar",
+      "spol": "Ima",
+      "dob": "23"
+    }
+  },
+  {
+    "1": {
+      "id": 2,
+      "name": "Ana",
+      "surname": "Portnar",
+      "sex": "Zensko",
+      "dob": "23"
+    }
+  },
+  {
+    "2": {
+      "id": 3,
+      "name": "Ivan",
+      "surname": "Ivancic",
+      "sex": "Musko"
+    }
+  },
+  {
+    "3": {
+      "id": 4,
+      "name": "Nikola",
+      "surname": "Bolestan",
+      "sex": "Musko",
+      "dob": "22"
+    }
+  },
+  {
+    "4": {
+      "id": 5,
+      "name": "Proba",
+      "surname": "Prolazi",
+      "sex": "Musko",
+      "dob": "63"
+    }
+  }
+]

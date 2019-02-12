@@ -1,0 +1,32 @@
+[
+  {
+    "0": {
+      "name": "Infektologija",
+      "rooms_nb": "2"
+    }
+  },
+  {
+    "1": {
+      "name": "Ocni",
+      "rooms_nb": "3"
+    }
+  },
+  {
+    "2": {
+      "name": "Urologija",
+      "rooms_nb": "4"
+    }
+  },
+  {
+    "3": {
+      "name": "Kirurgija",
+      "rooms_nb": "2"
+    }
+  },
+  {
+    "4": {
+      "name": "Psihijatrija",
+      "rooms_nb": "3"
+    }
+  }
+]
